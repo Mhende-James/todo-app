@@ -1,0 +1,5 @@
+# Ignore the target directory (where compiled binaries are stored)
+target/
+
+# Ignore backup files created by Rust
+*.rs.bk
